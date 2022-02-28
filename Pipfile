@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 sqlalchemy = "*"
+flask = "*"
+numpy = "*"
+python-dateutil = "*"
 
 [dev-packages]
 
